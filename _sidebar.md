@@ -16,11 +16,11 @@
 
 - 工具篇    
 
-  * [图床神器配置](tools/图床神器配置.md)    
-
-  * [使用docsify写开源文档](tools/使用docsify写开源文档.md)    
-
-  * [我的常用工具](tools/我的常用工具.md) 
+  - [use-docsify](docs/tools/use-docsify.md)    
+  - [图床神器配置](tools/图床神器配置.md)    
+  - [使用docsify写开源文档](tools/使用docsify写开源文档.md)    
+  - [我的常用工具](tools/我的常用工具.md) 
+  
 
 想法 
 
