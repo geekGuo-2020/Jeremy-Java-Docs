@@ -14,6 +14,8 @@
 
     - [SpringBoot整合MyBatis](springboot-tech/spring-boot-07-data-mybatis.md) 
 
+- webSocket
+  - [websoket](docs/websoket/websoket.md)
 - 工具篇    
 
   - [use-docsify](docs/tools/use-docsify.md)    
