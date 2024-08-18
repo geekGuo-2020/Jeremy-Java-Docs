@@ -1,4 +1,4 @@
-# Git报错： Failed to connect to github.com port 443 解决方案
+# ✅Git报错： Failed to connect to github.com port 443 解决方案
 
 ## 两种情况：
 第一种情况自己有vpn，网页可以打开github。说明命令行在拉取/推送代码时并没有使用vpn进行代理
