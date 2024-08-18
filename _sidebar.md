@@ -1,8 +1,14 @@
-- 介绍   
+- 八古文   
 
-  - [PassJava 功能介绍](introduction/PassJava_introduction_01.md)   
+  - 线上问题排查
 
-  -  [PassJava 必备知识](introduction/PassJava_introduction_02.md) 
+    - [✅POI导致内存溢出排查](docs\Guwen\8GuwenD\线上问题排查\✅POI导致内存溢出排查.md)
+
+  - 项目难点&亮点
+
+    - [✅基于EasyExcel+线程池解决POI文件导出时的内存溢出及超时问题](docs\Guwen\8GuwenD\项目难点&亮点\✅基于EasyExcel+线程池解决POI文件导出时的内存溢出及超时问题.md)
+
+  - [PassJava 必备知识](introduction/PassJava_introduction_02.md) 
 
   - PassJava 架构篇 
 
