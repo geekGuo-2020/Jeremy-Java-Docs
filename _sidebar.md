@@ -24,7 +24,7 @@
   - [websoket](docs/websoket/websoket.md)
 - 故障手册
 
-  - [✅Git报错： Failed to connect to github.com port 443 解决方案](docs/ztkj/Java故障手册/20240818Git报错： Failed to connect to github.com port 443 解决方案.md)
+  - [✅Git报错： Failed to connect to github.com port 443 解决方案](docs/ztkj/Java故障手册/20240818_Failed to connect to github.com port 443 解决方案.md)
 
 - 工具篇    
 
